@@ -107,3 +107,25 @@ Esse protótipo mostra como é possível:
 ---
 
 💡 **"Não basta criar sistemas, é preciso criar soluções que acompanhem a velocidade do mundo."**  
+
+![screencapture-localhost-5173-2024-12-05-23_20_58](https://github.com/user-attachments/assets/c120460d-f881-4987-96c4-04b09ff70582)
+![screencapture-localhost-5173-input-2024-12-05-23_21_05](https://github.com/user-attachments/assets/d6be94de-713d-4b98-9a58-2caa470e4a8f)
+![screencapture-localhost-5173-api-2024-12-05-23_21_13](https://github.com/user-attachments/assets/c36c7025-04c0-4f32-9a94-032f1b2c8150)
+![screencapture-localhost-5173-analysis-2024-12-05-23_21_21](https://github.com/user-attachments/assets/12b7ad3b-df5a-4835-a6d8-a0c2ed50e105)
+![screencapture-localhost-5173-insights-2024-12-05-23_21_27](https://github.com/user-attachments/assets/af79a46e-ce4f-47f2-a325-d39031530115)
+![screencapture-localhost-5173-copilot-2024-12-05-23_21_51](https://github.com/user-attachments/assets/06977e61-7f71-4e82-a59b-ff3e0e147260)
+![screencapture-localhost-5173-reports-2024-12-05-23_21_57](https://github.com/user-attachments/assets/0c928166-f076-4822-a113-a9bb48af3910)
+![screencapture-localhost-5173-security-2024-12-05-23_22_04](https://github.com/user-attachments/assets/d5433414-71bf-4ce8-80fa-d5c24a706d71)
+![screencapture-localhost-5173-settings-2024-12-05-23_22_10](https://github.com/user-attachments/assets/19b610c7-e3aa-4fe2-bbdf-df82d861ba3d)
+![screencapture-localhost-5173-2024-12-05-23_22_36](https://github.com/user-attachments/assets/3f9f61f8-af4b-4311-88c2-6a32fbe78008)
+![screencapture-localhost-5173-input-2024-12-05-23_22_43](https://github.com/user-attachments/assets/e75423c9-4b85-45a5-bd7f-44832527e3e8)
+![screencapture-localhost-5173-api-2024-12-05-23_22_48](https://github.com/user-attachments/assets/9f62e295-d492-4328-be36-8073c501918c)
+![screencapture-localhost-5173-analysis-2024-12-05-23_22_54](https://github.com/user-attachments/assets/e5da9602-5170-47f1-81ae-bb55c2dcd764)
+![screencapture-localhost-5173-insights-2024-12-05-23_22_59](https://github.com/user-attachments/assets/10cfc654-f464-4be5-accc-5ce0eee195e4)
+![screencapture-localhost-5173-copilot-2024-12-05-23_23_03](https://github.com/user-attachments/assets/bea14aca-74f4-4136-964d-98a03627c217)
+![screencapture-localhost-5173-reports-2024-12-05-23_23_08](https://github.com/user-attachments/assets/7e531fd9-6030-4545-8c6a-4096d18ebf9b)
+![chrome_XkbwVewr62](https://github.com/user-attachments/assets/a0228649-2158-46ef-9206-4f4eb101df0a)
+![screencapture-localhost-5173-security-2024-12-05-23_23_21](https://github.com/user-attachments/assets/5559f1ab-cdd6-4cad-ab67-ad713f617922)
+![screencapture-localhost-5173-settings-2024-12-05-23_23_26](https://github.com/user-attachments/assets/a7dd43dd-da94-48ef-acf3-54adcf2a2f57)
+
+
